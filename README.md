@@ -3,7 +3,8 @@
 
 ![PancakeSwap-Logo-Big](Download.png)
 
-This bot wins the majority of rounds on PancakeSwap & CandleGenie based. Visit our Webpage: ***https://assaempire.eu
+
+This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
 This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
 
 
@@ -14,7 +15,7 @@ https://nodejs.org/en/download/
 
 Then run command prompt or powershell.  
 
-- Type ``cd PancakeSwap-Prediction-v2`` (replace with your cloned/downloaded bot folder)
+- Type ``cd PancakeSwap Prediction v1.0.0`` (replace with your cloned/downloaded bot folder)
 - Type ``npm i``
 
 ## 🗺️ Usage
