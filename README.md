@@ -77,7 +77,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 
 ## 📈 Updates 
 
-[Available soon]: supports [Uniswap] & [ApeSwap], Android/IOS support with Metamask.
+[Available soon]: supports [Uniswap] & [ApeSwap], Android/IOS support with Metamask
 
 
 ## 🛑 Disclaimers
