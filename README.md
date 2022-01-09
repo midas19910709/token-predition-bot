@@ -66,7 +66,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 ![History_2](https://user-images.githubusercontent.com/37302442/142724431-48a7c301-ee59-4485-9733-3ee5a0303c00.PNG)
 
 #### 📢 Advice:
-- Run the bot with your wallet at a ratio of 10x the amount you choose to bet.
+- Run the bot with your wallet at a ratio of 10x the amount you choose to bet
 - Adjust the bot accordingly to bet with or against the majority.
 - When the chart swings, use the "--with" strategy.
 - When the chart trends sideways, use the default, against strategy. 
