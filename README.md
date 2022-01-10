@@ -22,6 +22,8 @@ BOT is free-to-use, but you are welcome to appreciate my work ☺️
 ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
 
 BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
+  
+Thank's to Empaticgame! spend: 0,8 BNB ❤️  
 
 ## 💡 Installation
 
