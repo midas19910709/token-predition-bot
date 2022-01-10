@@ -15,9 +15,13 @@
 
 This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
 This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
+## our thanks:
 
-## 0x0A4A569cfA700Fc2A1d54974712716E537C169ff 
-**Feel free and Donate me some gifts. Thank you :)**
+BOT is free-to-use, but you are welcome to appreciate my work ☺️
+
+ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
+
+BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
 
 ## 💡 Installation
 
