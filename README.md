@@ -41,7 +41,7 @@ Then run command prompt or powershell.
 2. Provide your private key to .env PRIVATE_KEY field.
 3. Install dependencies `npm i` or `yarn` if not already completed above.
 4. Start the bot using `npm run start -- --with` or `yarn start -- --with`
-5. Enjoy!!
+5. Enjoy!
 
 ### 🦊 How to Export Private Key from MetaMask
 1. Open your account
