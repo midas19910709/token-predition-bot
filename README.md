@@ -9,6 +9,9 @@
   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/stars/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion?style=social">
   </a>
+   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/SavannahCatToken/PancakeswapPredictionBot-Fullversion?style=social">
+  </a>
   <a href="https://twitter.com/intent/follow?screen_name=SavannaCatToken">
     <img src="https://img.shields.io/twitter/follow/SavannaCatToken?style=social" alt="Follow @SavannahCat" />
   </a>
@@ -102,3 +105,11 @@ MIT License
 ## 📧 If you need some help contact me
 
 ***support@assaempire.eu
+  
+  
+## Reddit Hater's 
+ 
+![Hater's](https://cdn.arstechnica.net/wp-content/uploads/2019/03/reddit-games-silence.png)
+  
+  
+**We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The AssaEmpire Team will contact Github with the problems so that this no longer occurs. Thank you for reading and have fun :)**
