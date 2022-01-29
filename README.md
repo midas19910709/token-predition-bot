@@ -89,7 +89,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 [Available soon]: supports [Uniswap] & [ApeSwap], Android/IOS support with Metamask
 
 
-## ⚠️ Beware of clones!
+## ⚠️ Beware of clones!!
 
 Beware of forks. I do not give any guarantee that the fork may turn out to be a scam. I'm coding this stuff on a pure open source. I do my best to publish constant updates and bug fixes. the bot has a very small tax in the claim function, so we both win. At the same time you support me, this project and the following projects.
 
