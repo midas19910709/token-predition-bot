@@ -84,7 +84,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 - Always account & allow room for error. Losing 3 sucks, but stopping it only prevents it from potentially winning the next 4 & bringing you to a profit. 
 - Majority of the runs with over 2k plays I have a standard 54-66% win rate depending on how well I monitor it & based on market conditions.
 
-## 📈 Updates 
+## 📈 Updates
 
 [Available soon]: supports [Uniswap] & [ApeSwap], Android/IOS support with Metamask
 
