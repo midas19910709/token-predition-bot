@@ -50,7 +50,7 @@ Then run command prompt or powershell.
 1. Open your account
 2. Click on three points at top-right corner
 3. Account details
-4. Export Private Key.  
+4. Export Private Key.
 
 ### ✔️ Sample ``.ENV`` file
 ```
