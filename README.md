@@ -29,6 +29,7 @@ Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
 UPDATE SOON FOR MORE PROFIT!!!
 
+
 ## 💡 Installation
 
 Download & Install Node here :
